@@ -1,0 +1,41 @@
+.main {
+  width: 700px;
+  height: 600px;
+  margin-left: 300px;
+  background-image: linear-gradient(rgb(43, 185, 196), rgb(130, 171, 184), rgba(62, 245, 169, 0.89));
+}
+.main img {
+  border-radius: 100px;
+  margin-top: 60px;
+  margin-left: 101px;
+  width: 500px;
+  height: 300px;
+  border: 1px solid black;
+}
+.main_p {
+  font: 24px bold arial;
+  margin-left: 290px;
+}
+.main_button1 {
+  margin-left: 65px;
+  width: 120px;
+  height: 120px;
+}
+.main_button2 {
+  margin-left: 310px;
+  width: 120px;
+  height: 120px;
+  transform: rotate(180deg);
+}
+
+.main_p:hover {
+  color: rgb(255, 255, 255);
+}
+
+.main_button1:hover {
+  filter: invert(100%);
+}
+
+.main_button2:hover {
+  filter: invert(100%);
+}/*# sourceMappingURL=Final.css.map */
